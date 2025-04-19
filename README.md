@@ -8,6 +8,16 @@ Built using the **Django framework**, this project serves as a learning and port
 
 ![Mockup](images-documentation/readme_images/mockup_responsive.png)
 
+## Demo Login
+
+To test the app easily:
+
+**Username:** `sam.redeemington`  
+**Password:** `sampass123`
+
+The test account has points available so you can explore the full authentification (login - logout) and reward redemption process.
+
+
 ## 2. **User Experience - UX**
 
 ### **2.1. Scope and Structure**
